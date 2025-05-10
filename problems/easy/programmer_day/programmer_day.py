@@ -1,5 +1,3 @@
-
-def dayOfProgrammer(year):
     def dayOfProgrammer(year):
     if year == 1918:
         return "26.09.1918"
