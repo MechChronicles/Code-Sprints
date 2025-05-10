@@ -10,3 +10,7 @@
 | **Challenge** | **sum_two_numbers.py** |
 | **Total Points** | **10** |
 
+### MechChronicles - 2025-05-10 10:19:36
+| **Challenge** | **angry_professor.py** |
+| **Total Points** | **10** |
+
