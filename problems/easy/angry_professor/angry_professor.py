@@ -1,4 +1,12 @@
 
 def angryProfessor(k, a):
-    # Write your code here
-    return "YES"
+
+   on_time_students= sum(1 for arrival in a if k <=0)
+    if on_time_students < k:
+        return "Yes"
+    else:
+         return "No"
+    #Example code
+k = 3
+arrival_times = [-1, -2, 1, 2]
+print(angryProfessor(k,arriva_times))
