@@ -6,3 +6,7 @@
 | **Challenge** | **grading_students.py** |
 | **Total Points** | **10** |
 
+### Brian kamotho - 2025-05-10 10:13:55
+| **Challenge** | **sum_two_numbers.py** |
+| **Total Points** | **10** |
+
